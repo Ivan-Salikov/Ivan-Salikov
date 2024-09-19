@@ -1,4 +1,4 @@
-Hi 👋 My name is Иван Саликов
+Привет 👋 Меня зовут Иван
 =============================
 
 Начинающий программист
@@ -6,10 +6,9 @@ Hi 👋 My name is Иван Саликов
 
 Студент второго курса, по специальности "Программная инженерия". В свободное время изучаю игровой движок Godot
 
-* 🌍  I'm based in Оренбург, Россия
-* 🧠  I'm learning Godot, Java
+* 🧠  Сейчас изучаю Godot, Java
 
-### Skills
+### Навыки
 
 
 <p align="left">
@@ -17,11 +16,11 @@ Hi 👋 My name is Иван Саликов
 </p>
 
 
-### Socials
+### Контакты
 
 <p align="left"> <a href="https://www.github.com/Ivan-Salikov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Статистика
 
 <b>My GitHub Stats</b>
 

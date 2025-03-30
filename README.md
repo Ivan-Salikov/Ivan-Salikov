@@ -38,3 +38,5 @@
 <div width="100%" align="center"><a href="https://github.com/Ivan-Salikov/CourseWork-VideoStore" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Salikov&repo=CourseWork-VideoStore&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
   
 <div width="100%" align="center"><a href="https://github.com/Ivan-Salikov/RadioStationSimulation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Salikov&repo=RadioStationSimulation&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+
+<div width="100%" align="center"><a href="https://github.com/Ivan-Salikov/Client_Server_BlackJack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivan-Salikov&repo=Client_Server_BlackJack&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>

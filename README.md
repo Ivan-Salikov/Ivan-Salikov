@@ -33,10 +33,10 @@
 
 | Проект | Технологии | Описание |
 |--------|------|-------|
-| [🔧 Компилятор языка «М»](https://github.com/Ivan-Salikov/CourseWork-ProgLang-Compiler) | `C#` `WPF` `MVVM` | Полный цикл обработки кода: от лексического анализа на основе конечных автоматов до выполнения промежуточного кода на виртуальной стековой машине  |
-| [📻 Модель работы радиостанции](https://github.com/Ivan-Salikov/RadioStationSimulation) | `Java` `JavaFX` `MVC` | Модель составление чартов на радиостанции с визуальным интерфейсом |
-| [🃏 Client-Server BlackJack](https://github.com/Ivan-Salikov/Client_Server_BlackJack) | `Python` `Websockets` | Сетевая игра с клиент-серверной архитектурой |
-| [⚡ LeetCode Practice](https://github.com/Ivan-Salikov/learning-programming-with-leetcode) | `Python` `Algorithms` | Алгоритмы и структуры данных на практике |
+| [🔧 Компилятор языка «М»]([https://github.com/Ivan-Salikov/CourseWork-ProgLang-Compiler](https://github.com/Ivan-Salikov/CourseWork_Prog_Lang_Compiler)) | `C#` `WPF` `MVVM` | Полный цикл обработки кода: от лексического анализа на основе конечных автоматов до выполнения промежуточного кода на виртуальной стековой машине  |
+| [📻 Модель работы радиостанции]([https://github.com/Ivan-Salikov/RadioStationSimulation](https://github.com/Ivan-Salikov/RadioStationSimulation)) | `Java` `JavaFX` `MVC` | Модель составление чартов на радиостанции с визуальным интерфейсом |
+| [🃏 Client-Server BlackJack]([https://github.com/Ivan-Salikov/Client_Server_BlackJack](https://github.com/Ivan-Salikov/Client_Server_BlackJack)) | `Python` `Websockets` | Сетевая игра с клиент-серверной архитектурой |
+| [⚡ LeetCode Practice]([https://github.com/Ivan-Salikov/learning-programming-with-leetcode](https://github.com/Ivan-Salikov/learning-programming-with-leetcode)) | `Python` `Algorithms` | Алгоритмы и структуры данных на практике |
 
 ---
 

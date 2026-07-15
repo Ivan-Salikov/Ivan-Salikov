@@ -33,7 +33,7 @@
 
 | Проект | Технологии | Описание |
 |--------|------------|----------|
-| [🎬 HLS Downloader API](https://github.com/твой-username/hls_downloader) | `Python` `Flask` `FFmpeg` `HLS` `AES-128` | Высокопроизводительный REST API сервис: параллельная загрузка HLS-чанков, расшифровка AES-128, конвертация в универсальный MP4 с субтитрами VTT. Совместимо с iOS AVPlayer и Android ExoPlayer |
+| [🎬 HLS Downloader API](https://github.com/Ivan-Salikov/hls_downloader) | `Python` `Flask` `FFmpeg` `HLS` `AES-128` | Высокопроизводительный REST API сервис: параллельная загрузка HLS-чанков, расшифровка AES-128, конвертация в универсальный MP4 с субтитрами VTT. Совместимо с iOS AVPlayer и Android ExoPlayer |
 | [🔧 Компилятор языка «М»](https://github.com/Ivan-Salikov/CourseWork_Prog_Lang_Compiler) | `C#` `WPF` `MVVM` | Полный цикл обработки кода: от лексического анализа на основе конечных автоматов до выполнения промежуточного кода на виртуальной стековой машине |
 | [🃏 Client-Server BlackJack](https://github.com/Ivan-Salikov/Client_Server_BlackJack) | `Python` `Websockets` | Сетевая игра с клиент-серверной архитектурой |
 | [⚡ LeetCode Practice](https://github.com/Ivan-Salikov/learning-programming-with-leetcode) | `Python` `Algorithms` | Алгоритмы и структуры данных на практике |

@@ -4,7 +4,7 @@
 
 > 💡 Пишу код, изучаю архитектуру, практикую алгоритмы, освоиваю основы геймдева.
 
-![Course](https://img.shields.io/badge/🎓_3_курс-3382ed?style=flat&logo=github&logoColor=white&labelColor=000000)
+![Course](https://img.shields.io/badge/🎓_4_курс-3382ed?style=flat&logo=github&logoColor=white&labelColor=000000)
 ![Status](https://img.shields.io/badge/🔍_Открыт_к_стажировкам-3382ed?style=flat&logo=github&logoColor=white&labelColor=000000)
 ![Location](https://img.shields.io/badge/📍_Оренбург-3382ed?style=flat&logo=github&logoColor=white&labelColor=000000)
 
